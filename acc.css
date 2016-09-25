@@ -1,0 +1,118 @@
+body{
+	background-image: url("wp7.jpeg");
+		
+	background-size:100% 100%;
+	
+}
+#topbar{
+	width:100%;
+	height:70px;
+	color:white;
+	font-family:AR ESSENCE,Book Antiqua;
+	background-color:#777a6d;
+	opacity:0.9;
+	font-size:2.8em;
+	
+}
+#tab{
+	background-color:white;
+}
+.acc{
+	width:250px;
+	height:250px;
+	/*transition-property: border-radius;
+    transition-duration: 1s;
+    transition-timing-function: linear;
+	transition-delay:0s;*/
+    border-radius:50%;
+	border:1px dashed grey;
+}
+.acc h3{
+	text-align:center;
+	padding:10px;
+}
+.acc:hover{
+	
+	box-shadow: 10px 10px 5px #888888;
+	border-radius:0;
+}
+th{
+	font-family:Centaur;
+	font-size:1.2em;
+}
+#b1{
+
+	float:left; 
+	color:white;
+	background-image: url("earphones.jpg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+}
+#b2{
+	
+	float:left; 
+	color:white;
+	background-image: url("acc2.jpg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+	border:1px dashed grey;
+}
+#b3{
+
+	float:left; 
+	color:white;
+	background-image: url("mobcover1.jpeg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+	border:1px dashed grey;
+	
+}
+#b4{
+	
+	float:left; 
+	color:white;
+	background-image: url("earphones5.jpg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+}
+#b5{
+	
+	float:left; 
+	color:white;
+	background-image: url("earphones8.jpg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+}
+#b6{
+
+	float:left; 
+	color:white;
+	background-image: url("bluetooth.jpeg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+}
+#b7{
+
+	float:left; 
+	color:white;
+	background-image: url("powerbank2.jpeg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+}
+#b8{
+
+	float:left; 
+	color:white;
+	background-image: url("earphones10.jpg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+}
+#bottombar{
+	background-image: url("footer4.png");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+/*	position:absolute;*/
+/*	bottom:0;*/
+	width:100%;
+	height:150px;
+}
